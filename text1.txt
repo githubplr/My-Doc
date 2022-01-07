@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 24CA-DABC
+
+ Directory of C:\Users\Dell\Desktop\Atos Syntel Joining Documents 2
+
+08-01-2022  00:14    <DIR>          .
+08-01-2022  00:14    <DIR>          ..
+24-10-2021  00:45         6,467,045 Education certificates.pdf
+24-10-2021  00:45         6,511,383 ID proofs.pdf
+08-01-2022  00:14                 0 text1.txt
+               3 File(s)     12,978,428 bytes
+               2 Dir(s)  385,251,176,448 bytes free
